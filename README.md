@@ -1,6 +1,6 @@
 # Public-Projects
 
-**These projects can be shared via open license since they're the result of my work during assignments given to me in public institutions.**
+**These projects can be shared via open license since they're the result of my work during assignments given to me by public institutions.**
 
 ## Sources:
 * UW
